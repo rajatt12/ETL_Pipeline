@@ -1,1 +1,14 @@
+plan_id,plan_name,plan_type,data_limit_gb,call_limit,sms_limit,monthly_cost
+P101,Super Saver,Prepaid,15,300,100,299
+P102,Unlimited Pro,Postpaid,50,2000,500,699
+P103,Data Boost,Prepaid,10,200,50,249
+P104,Family Connect,Postpaid,30,1500,400,599
+P105,Youth Max,Prepaid,25,500,200,399
+P106,Business Elite,Postpaid,100,5000,1000,999
+P107,Weekend Binge,Prepaid,20,300,150,349
+P108,Premium 5G,Postpaid,150,5000,1200,1199
+P109,Student Connect,Prepaid,12,250,80,279
+P110,Corporate Flex,Postpaid,200,8000,2000,1499
+P111,Rural Value,Prepaid,8,150,50,199
+P112,5G Ultra Unlimited,Postpaid,999,10000,5000,1999
 
