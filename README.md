@@ -1,6 +1,6 @@
-<img src="High_Risk_Customer.png" alt="My Image" width="…" height="…">
-<img src="High_Risk_Customer.png" alt="My Image" width="…" height="…">
-<img src="High_Risk_Customer.png" alt="My Image" width="…" height="…">
+<img src="Preview/ETL_DB_Preview.png" alt="My Image" width="…" height="…">
+<img src="Preview/Call_vs_SMS.png" alt="My Image" width="…" height="…">
+<img src="Preview/Data_usage_vs_Region.png" alt="My Image" width="…" height="…">
 
 ## 1. Project Overview  
 This project implements an ETL (Extract-Transform-Load) pipeline using Python (in a Jupyter Notebook).  
